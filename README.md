@@ -13,7 +13,7 @@ A full-stack URL shortener built with Next.js, TypeScript, Tailwind CSS, and Pos
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots\dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 *Main dashboard showing all shortened links with management options*
 
 <!-- ### Create Short URL
@@ -21,11 +21,11 @@ A full-stack URL shortener built with Next.js, TypeScript, Tailwind CSS, and Pos
 *Form to create new short URLs with optional custom codes* -->
 
 ### Link Statistics
-![Statistics](screenshots\stats.png)
+![Statistics](./screenshots/stats.png)
 *Detailed analytics for individual short URLs*
 
 ### Mobile Responsive
-![Mobile View](screenshots\mobile.png)
+![Mobile View](./screenshots/mobile.png)
 *Fully responsive design that works on all devices*
 
 ## Tech Stack
