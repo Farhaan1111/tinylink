@@ -10,6 +10,24 @@ A full-stack URL shortener built with Next.js, TypeScript, Tailwind CSS, and Pos
 - 🎨 Clean, responsive UI
 - 🚀 Built with modern web technologies
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots\dashboard.png)
+*Main dashboard showing all shortened links with management options*
+
+<!-- ### Create Short URL
+![Create Link](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Create+Short+URL+-+TinyLink)
+*Form to create new short URLs with optional custom codes* -->
+
+### Link Statistics
+![Statistics](screenshots\stats.png)
+*Detailed analytics for individual short URLs*
+
+### Mobile Responsive
+![Mobile View](screenshots\mobile.png)
+*Fully responsive design that works on all devices*
+
 ## Tech Stack
 
 - **Frontend:** Next.js 14, TypeScript, Tailwind CSS
